@@ -1,0 +1,3 @@
+[submodule "tectonicpltes"]
+	path = tectonicpltes
+	url = https://github.com/fraxen/tectonicplates.git
